@@ -2,7 +2,7 @@ Update [Order Details]
 Set Discount = 0.20
 Where Quantity > 50;
 
-Contacts
+Update Contacts
 Set City = 'Piter', Country = 'Russia'
 Where City = 'Berlin' AND Country = 'Germany';
 
